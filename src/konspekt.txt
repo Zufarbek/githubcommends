@@ -1,3 +1,6 @@
 git branch => branchlar ro'yxati
 git branch branch_name => branch_name degan branch yaratish
 git checkout branch_name => branch_name ga o'tish
+
+
+git pull => oxirgi yangilashni tortib olish
