@@ -8,6 +8,15 @@ export default function Home() {
             <p>loremhsdfkjasdhfkjsadhkfjsadfs sjflksadfshdf</p>
             <p>loremhsdfkjasdhfkjsadhkfjsadfs sjflksadfshdf sdl;fjsfajsdf;sadjfs</p>
             <p>loremhsdfkjasdhfkjsadhkfjsadfs sjflksadfshdf sdl;fjsfajsdf;sadjfs HSFKSFSAFSD </p>
+
+            <div>
+                <div>
+                    salom
+                    <div>
+                        Va alaykum assalom
+                    </div>
+                </div>
+            </div>
         </div>
     )
 }
